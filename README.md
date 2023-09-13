@@ -20,7 +20,7 @@ This is an Address Book Application built with FastAPI and SQLAlchemy that allow
 
 
 ## Installation
-1. Clone the repository:
+Clone the repository:
 
    ```bash
    git clone https://github.com/Harikrishnanvc/address_management_fastapi.git
